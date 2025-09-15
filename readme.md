@@ -1,4 +1,4 @@
-Results are kinda... Average. But! The potential is there! 
+Mixed results. But! The potential is there! 
 
 
 Emotion Classification Application using RoBERTa
