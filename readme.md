@@ -16,15 +16,11 @@ The application is structured into three main modules:
 2. Model Module: For training, saving, and loading the classifier
 3. Prediction Module: For making predictions on new text input
 
-
-```
-
 Install the required dependencies:
 
 ```bash
 pip install torch transformers pandas scikit-learn numpy
 pip install torch transformers pandas scikit-learn numpy
-sudo apt 
 ```
 
 Install nvidia cudnn, nvidia cuda toolkit
