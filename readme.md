@@ -4,12 +4,12 @@ Mixed results. But! The potential is there!
 Emotion Classification Application using RoBERTa
 
 This application classifies text into six emotion categories:
-- Sadness (0): Feelings of loss, disappointment, or despair
-- Joy (1): Feelings of happiness, contentment, or excitement
-- Love (2): Feelings of affection, fondness, or passion
-- Anger (3): Feelings of frustration, irritation, or fury
-- Fear (4): Feelings of anxiety, nervousness, or terror
-- Surprise (5): Feelings of astonishment, shock, or amazement
+- Sadness (0)
+- Joy (1)
+- Love (2)
+- Anger (3)
+- Fear (4)
+- Surprise (5)
 
 The application is structured into three main modules:
 1. Data Module: For data loading, preprocessing, and splitting
